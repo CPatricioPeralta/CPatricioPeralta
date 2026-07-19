@@ -1,15 +1,22 @@
 # Hola 👋, soy César Patricio Peralta
 
-## Doctor en Ingeniería de Sistemas
+🎓 **Doctor en Ingeniería de Sistemas**  
+💻 **Ingeniero de Sistemas | Investigador | Docente Universitario**
 
-Especialista en:
+Apasionado por el desarrollo de soluciones tecnológicas innovadoras, la investigación científica y la aplicación de tecnologías emergentes para resolver problemas del mundo real.
 
-- Inteligencia Artificial
-- Machine Learning
-- Desarrollo Web
-- Blockchain
-- Big Data
-- Investigación Científica
+## 🚀 Áreas de Especialización
+
+- 🤖 Inteligencia Artificial
+- 🧠 Machine Learning
+- 💻 Ingeniería y Desarrollo de Software
+- 🌐 Desarrollo Web Full Stack
+- ⛓️ Blockchain
+- 📊 Big Data y Ciencia de Datos
+- 🔬 Investigación Científica
+- ☁️ Arquitectura de Software y Sistemas
+
+> *"Transformando ideas en soluciones tecnológicas con innovación, investigación y desarrollo."*
 
 ---
 ## 🚀 Tech Stack

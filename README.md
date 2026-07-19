@@ -15,6 +15,8 @@ Especialista en:
 
 ## 🚀 Herramientas
 
+Python • Java • JavaScript • PHP • Spring • React • Node.js • Laravel • MySQL • Docker • Git • GitHub • VS Code • Figma
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![Spring](https://img.shields.io/badge/Spring-success?style=for-the-badge&logo=spring)

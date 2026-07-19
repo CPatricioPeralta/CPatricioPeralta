@@ -24,3 +24,6 @@ Especialista en:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,spring,react,nextjs,nodejs,php,laravel,mysql,docker,git,github,vscode,html,css,js,figma" />
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/USUARIO/USUARIO/main/banner.png"/>
+</p>

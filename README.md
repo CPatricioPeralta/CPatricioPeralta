@@ -1,5 +1,3 @@
-# Hola 👋, soy César Patricio Peralta
-
 🎓 **Doctor en Ingeniería de Sistemas**  
 💻 **Ingeniero de Sistemas | Investigador | Docente Universitario**
 

@@ -25,5 +25,15 @@ Especialista en:
 <img src="https://skillicons.dev/icons?i=python,java,spring,react,nextjs,nodejs,php,laravel,mysql,docker,git,github,vscode,html,css,js,figma" />
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/USUARIO/USUARIO/main/banner.png"/>
+<a href="https://linkedin.com/in/tuusuario">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/TUUSUARIO">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 </p>

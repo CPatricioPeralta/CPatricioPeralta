@@ -28,3 +28,7 @@ Especialista en:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,spring,react,nextjs,nodejs,php,laravel,mysql,docker,git,github,vscode,html,css,js,figma" />
+</p>
